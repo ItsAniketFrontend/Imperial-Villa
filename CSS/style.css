@@ -16,6 +16,9 @@ header .top p {
   color: #fff;
   margin-bottom: 0px;
 }
+header .top li {
+  list-style: none;
+}
 header nav {
   background-color: #ffffff;
 }
